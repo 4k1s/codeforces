@@ -1,0 +1,6 @@
+# don't include input/output files
+*.data
+# don't include old files
+*~
+# ignore executable files
+a.out
